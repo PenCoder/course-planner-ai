@@ -15,3 +15,6 @@ __pycache__/
 .env
 *.env
 .env.local
+
+# Others
+.docx
