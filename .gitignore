@@ -16,6 +16,14 @@ __pycache__/
 *.env
 .env.local
 
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Migrations
+migrations/
+
 # Others
 *.docx
 *.pdf
